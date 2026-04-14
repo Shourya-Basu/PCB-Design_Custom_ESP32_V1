@@ -4,10 +4,6 @@
 ![PCB Design](https://img.shields.io/badge/PCB_Design-44CC11?style=for-the-badge&logo=circuit-board&logoColor=white)
 ![Hardware](https://img.shields.io/badge/Hardware-FFD700?style=for-the-badge&logo=cpu&logoColor=black)
 
-### Introduction 
-Designed and validated an integrated Power Management Unit (PMU) from schematic to physical PCB, ensuring reliable energy storage and conversion for mobile device applications.
-
-
 ---
 
 ### Tech Stack
