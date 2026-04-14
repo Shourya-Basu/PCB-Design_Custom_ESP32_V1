@@ -1,16 +1,30 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+![PCB Design](https://img.shields.io/badge/PCB_Design-44CC11?style=for-the-badge&logo=circuit-board&logoColor=white)
+![Hardware](https://img.shields.io/badge/Hardware-FFD700?style=for-the-badge&logo=cpu&logoColor=black)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Introduction 
+Designed and validated an integrated Power Management Unit (PMU) from schematic to physical PCB, ensuring reliable energy storage and conversion for mobile device applications.
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+### Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Schematic – The blueprint stage where logical connections between components are defined using symbols, pins, and nets to create a functional electrical map.
+
+- PCB Routing – The physical design process of laying down copper tracks (traces) on the board to connect components while adhering to design rules like clearance, trace width, and signal integrity.
+
+- KiCad – An open-source EDA suite used for schematic capture and PCB layout, offering powerful tools for 3D visualization and Gerber file generation.
+---
+
+
+### Images
+
+
+![Schematic](Images/image1.1.png)
+
+![PCB](Images/1.2.png)
+
+![PCB](Images/1.3.png)
